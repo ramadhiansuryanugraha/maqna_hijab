@@ -16,3 +16,7 @@ Ramadhian Surya Nugraha (1313620035)
   Requirement yang diinginkan oleh klien sendiri pun ingin lebih seperti website online shop seperti pada umumnya, seperti ada katalog, halaman pembelian, halaman pembayaran, dan jika bisa ada halaman about our shop, halaman admin untuk memanajemen berkurang dan bertambahnya barang, serta halaman penjelasan tentang pembayaran. Untuk pembayaran juga dibuat sesimpel mungkin yang langsung direct ke virtual account atau rekening bank klien dan jika memungkinkan e-wallet. Untuk sisi penjual atau admin, klien ingin website ini mengirimkan notifikasi pembelian para pembeli ke email kliennya.
   
   Untuk nuansa website karena ini merupakan website penjualan hijab, klien menginginkan untuk website yang simpel dan lebih kearah nuansa feminim/perempuan seperti warna pink pastel dan lain sebagainya.
+
+# Client Requirements Video
+
+Link Video: https://www.youtube.com/watch?v=uGL0czq1Dfo
