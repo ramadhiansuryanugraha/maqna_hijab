@@ -7,7 +7,7 @@ Boban Anderson (1313620021)
 
 Ramadhian Surya Nugraha (1313620035)
 
-# Text Naration
+# Text Narration
 
   Wawancara dimulai dari pembukaan masing-masing anggota kelompok 4 Interaksi Manusia Komputer yaitu Ramadhian Surya Nugraha, Saddam Aryo Cahyotomo, dan Boban Anderson memperkenalkan dirinya kepada klien yang telah didapat yaitu Tiara Marshanda Andrian yang mempunyai bisnis usaha produk hijab yang bernama Maqna Hijab.
   
